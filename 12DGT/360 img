@@ -1,0 +1,26 @@
+<div class="viewer-wrapper">
+  <div id="sa-target">
+  <div class="momento-360-view disallow-full-screen">
+  <div class="momento-spherical-content-view landscape">
+  <div class="preview no-preview" style="opacity: 0.49; display: none;"></div>
+  <div class="gl-container" style=""><canvas width="927" height="537" style="width: 741.6px; height: 430px;"></canvas></div>
+  <div class="still-spinner-icon" style="display: none;">
+  <span class="icon icon-spinner icon-spin"></span></div>
+  <div class="still-error-icon" style="display: none;">
+  <span class="icon icon-exclamation-circle"></span></div>
+  <div class="video-controls" style="display: none;">
+  <div class="play-icon "><span class="icon icon-circle-fill backing-circle"></span><span class="icon icon-play-circle"></span></div>
+  <div class="spinner-icon" style="display: none;">
+  <span class="icon icon-spinner icon-spin"></span></div><div class="error-icon icon icon-exclamation-circle" style="display: none;"></div></div><div class="right-button-wrapper"><div class="close-button"><span class="icon icon-circle-fill backing-circle"></span><span class="icon icon-close-circle"></span></div><div class="full-screen-button"><span class="icon icon-circle-fill backing-circle"></span><span class="icon icon-full-screen-circle"></span></div><div class="cardboard-toggle" style="display: none;"><span class="icon icon-circle-fill backing-circle"></span><span class="icon icon-cardboard-circle"></span></div></div></div></div></div>
+  <div class="wrap container viewer-content top">
+    <div class="content row headline-content text-xs-center">
+      <h1>Get the whole picture</h1>      <h2>Make the most of your 360 media</h2>    </div>
+  </div>
+  <div class="wrap container viewer-content bottom">
+    <div class="content row btn-row text-xs-center">
+      <a class="btn btn-primary cta-btn" href="https://momento360.com/p/register/">Sign Up</a>    </div>
+    <div class="content row text-xs-center">
+      <h4><p>See for yourself — it’s free!</p>
+</h4>    </div>
+  </div>
+</div>
