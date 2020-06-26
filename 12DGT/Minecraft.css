@@ -1,0 +1,132 @@
+.body {
+	margin: 22% 22% 22% 22% ;
+	padding: 50px;
+	color: #000;  
+    background-repeat: repeat;
+}
+
+
+.Title {
+    padding: 6% 30% 4% 30%;
+    width: auto;
+    height: auto;
+}
+
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 0px;
+    grid-gap: 0px;
+}
+
+.grid-item {
+    border: solid 5px black;
+    padding: 0px;
+    margin: 35px;
+}
+
+.grid-item:hover {
+    color: white;  
+    border: solid 5px white;
+}
+
+
+
+.box {
+    border:  solid 3px black;
+    padding: 15px;
+    background-image: url(Img/Stone.jpg);
+    background-repeat: repeat;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 0 0 black;
+    margin: 10px 23% 10px 23%;
+    text-decoration: none;
+}
+
+.info {
+    border:  solid 3px black;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    margin: 10px 23% 10px 23%;
+    text-decoration: none;
+    background-color: grey;
+    {opacity: 0.7;}
+    font-size: 30px;
+}
+
+.Sqaure {
+        grid-column: 1 1;
+
+    border:  solid 3px black;
+    padding: 50px;
+    margin: 10px 10px 10px 10px;
+    
+}
+
+a{
+  text-decoration: none;
+
+}
+
+.box:hover {
+    border:  solid 3px white;
+
+}
+
+.box>a:only-child {
+  color: white;
+  text-decoration: none;
+}
+
+Mining:visited{
+    text-decoration: none;
+}
+
+.Speed {
+padding: 6% 4% 0% 6%;
+}
+
+.SPTitle {
+padding: 2% 26% 2% 26%;
+}
+
+.SDTitle {
+padding: 2% 26% 2% 26%;
+}
+
+.Passive {
+padding: 2% 26% 2% 26%;
+}
+
+.Ore {
+padding: 2% 24% 2% 24%;
+}
+
+.Mob {
+padding: 2% 39% 2% 39%;
+}
+
+.Trade {
+padding: 2% 14% 2% 14%;
+}
+
+.Crafting {
+padding: 2% 33% 2% 33%;
+}
+
+.Nether {
+padding: 2% 30% 2% 30%;
+}
+
+.End {
+padding: 2% 35% 2% 35%;
+}
+
+.Bookshelf {
+
+padding: 2% 31% 2% 31%;
+}
+
+
